@@ -1,6 +1,41 @@
 Format
-Day: jklm
-Topics learned: pqrs
-Comments/Thoughts: abcd
-Link(s), if any: xyz
+Day: 
+Language:
+Type:
+Topics learned: 
+    1.
+    2.
+    3.
+    .
+    .
+Comments:
+    1.
+    2.
+    .
+    .
+Thoughts:
+    1.
+    2.
+    3.
+    .
+    .
+Link(s), if any: 
 
+
+ENTRY
+Day: 1
+Language: Python
+Type: Tutorial + Examples
+      Tutorial: Telusko/Navin Reddy Python course on youtube
+Topics covered: 
+    1. Recursion
+    2. Lambda expressions
+    3. Filter Map Reduce
+    4. Decorators
+    5. Modules
+    6. Special Variable "__name__"
+Comments/Reminder to self:
+    6. __main__ for main module
+       module name for imported module
+Thoughts:
+    Did not feel tired. :D Will try giving more time.
